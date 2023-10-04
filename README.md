@@ -1,1 +1,1 @@
-# mest_2024_git
+Introduction to Github and commands
